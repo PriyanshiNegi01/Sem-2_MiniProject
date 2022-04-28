@@ -1,1 +1,1 @@
-# Sen-2_MiniProject
+# Sem-2_MiniProject
